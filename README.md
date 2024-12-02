@@ -21,4 +21,4 @@ A real-time weather dashboard built with Streamlit and OpenWeatherMap API.
 1. Clone the repository
 2. Install requirements: `pip install -r requirements.txt`
 3. Add OpenWeatherMap API key
-4. Run: `streamlit run streamlit_app.py`
+4. Run: `streamlit run weather_app.py`
